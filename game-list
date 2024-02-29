@@ -1,9 +1,6 @@
 <html>
-<body>
+  <body>
+    <h1 class="Cooking"><font size="+10"><center>Games</center></font></h1>
 
-<ul>
-  
-  <h1 class="Cooking"><font size="+10"><center>Games</center></font></h1>
-
-</body>
+  </body>
 </html>
